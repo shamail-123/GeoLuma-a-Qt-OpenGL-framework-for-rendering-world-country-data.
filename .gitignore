@@ -1,0 +1,26 @@
+# Build folders
+build/
+cmake-build-*/
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Qt Creator / Visual Studio
+*.user
+*.sln
+*.vcxproj
+*.obj
+*.pdb
+*.idb
+
+# Binary output
+*.exe
+*.dll
+*.so
+*.a
+*.app
+*.o
