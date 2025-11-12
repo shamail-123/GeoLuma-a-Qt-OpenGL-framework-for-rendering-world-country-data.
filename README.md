@@ -12,7 +12,7 @@ A Qt C++ desktop application that loads world-country vector data (GeoJSON or Sh
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ```text
 +-----------------------+
